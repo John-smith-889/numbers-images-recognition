@@ -12,9 +12,9 @@ Dataset contains pictures of images which represent numbers from 0 to 9, and lab
 There are 4 files, which divide data on 
 images taining set, labels training set, images test set, and labels test set as follows:  
 
-*train-images.idx3-ubyte     
+*train-images.idx3-ubyte
 *train-labels.idx1-ubyte
-*t10k-images.idx3-ubyte  
+*t10k-images.idx3-ubyte
 *t10k-labels.idx1-ubyte
 
 Data source: [http://yann.lecun.com/exdb/mnist/](http://yann.lecun.com/exdb/mnist/)
